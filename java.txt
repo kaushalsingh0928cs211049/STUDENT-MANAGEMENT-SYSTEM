@@ -1,0 +1,12 @@
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: Kaushal singh
+Father's Name: sanjay singh
+RollNumber: 49
+Email ID: aditsingh8103@gmail.com
+Contact Number: 8103017839
+Wants to take: CSE
+Wants to Join in School of Engineering and Applied Sciences
+Wants to be a Day Scholar 
+Had chosen: CSE(2, 50, 000)
+Had chosen: bus(40, 000)
+				 Total amount to be paid is 2.9 Lakhs 
